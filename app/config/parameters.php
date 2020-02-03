@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'baxka',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'uD2SUiZcNrwF6BrRpNXJrXq7QS7c7tVemaS1x5jubkHHjqnM2qy8zAGI',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-02-03',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'SNSsGWoGT4BuLAnnFUGSNYXD2PgncZNnCss2eWtMrtEYqtXED38NXBru',
+    'cookie_iv' => 'EozxQZJA',
+    'new_cookie_key' => 'def000001c2411866ae26e35b47dcc0bf683d8963408c25b1671d7dada0f99a9138ddf2623bff4b13883bdd14e06e9c164fd03f59404089fc2e1c389a4438018f01f3cf5',
+  ),
+);
