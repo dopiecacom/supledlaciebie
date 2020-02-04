@@ -1,11 +1,11 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => '127.0.0.1',
+    'database_host' => 'serwer1994051.home.pl',
     'database_port' => '',
-    'database_name' => 'baxka',
-    'database_user' => 'root',
-    'database_password' => '',
+    'database_name' => '30574766_supledla',
+    'database_user' => '30574766_supledla',
+    'database_password' => 'ka9llo5_',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
